@@ -2,7 +2,7 @@
 My first Javascript Project
 
 # Description: 
-This is my very first project using Javascript, html, and css. Replicating the famous game 2048. I've also deploy the game on hostman. You can find it here: https://game-2048.hostman.site/
+This is my very first project using Javascript, html, and css, replicating the famous game 2048. I've also deploy the game on hostman. You can find it here: https://game-2048.hostman.site/
 
 # Table of Contents: 
 In the file uploaded you can find a separate zip file that contains all the codes and media files. 
